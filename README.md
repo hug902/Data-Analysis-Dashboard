@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-The project utilized Power BI to create dashboards for analyzing employee layoff data. Key steps included: Data Processing, Data Cleaning, Data Visualization These dashboards provide valuable insights for informed decision-making and strategic planning regarding employee layoffs.
+# Employee Attrition Classification Dataset (Interactive dashboard creation using Power Bi)
+## Project Objective
+Human resource managers want to create human resource assessments so that business owners can grasp the human resource situation and human resource quality. Thereby improving the situation of human resource attrition.
