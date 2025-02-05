@@ -5,7 +5,7 @@ Human resource managers want to create human resource assessments so that busine
 ## Data set used
 - <a href="https://github.com/hug902/Data-Analysis-Dashboard/blob/main/layoff.csv"> Data set</a>
 
-## Questions
+## Questions:
 - Which department has the highest attrition rate, and why might that be the case?
 - How does the attrition rate differ across various job levels?
 - How does the attrition rate vary among different age groups?
@@ -19,18 +19,21 @@ Human resource managers want to create human resource assessments so that busine
 - Dashboard Interaction <a href="https://github.com/hug902/Data-Analysis-Dashboard/blob/main/Screenshot_1.png">View Dashboard</a>
 - Dashboard Interaction <a href="https://github.com/hug902/Data-Analysis-Dashboard/blob/main/Screenshot_2.png">View Dashboard</a>
 
-## Process
+## Process:
 - Verify the data to find any missing values ​​and anomalies and sort them.
 - Ensure the data is consistent and clean in terms of data types, data formats and values ​​used.
 - Create pivot tables based on the questions asked.
 
-## DashBoard
+## DashBoard:
 ![Screenshot_1](https://github.com/user-attachments/assets/b1ee2ee0-c6b2-413c-b826-e695abd30569)
 ![Screenshot_2](https://github.com/user-attachments/assets/f74467db-d290-472b-9ee6-4458e51c9c9f)
 
-## Project Insight
+## Project Insight:
 - High attrition rate (47%), especially in the 46-59 age group and Entry-level → Need support policies and training to reduce this rate.
 - Low promotion opportunities make employees lose motivation → Need a clearer development roadmap.
 - Poor work & life balance can contribute to high attrition rate → Need to improve benefits and working environment.
 - Education sector has lower income → Need to consider salary adjustment to retain employees.
 - The company needs a better human resource strategy to improve satisfaction and reduce turnover rate.
+
+## Final Conclusion:
+To reduce attrition rates, companies need to improve career paths, training and reward policies to retain employees. Entry-level employees need better onboarding support, while older employees should be retrained instead of fired. At the same time, flexible working policies, mental health support and salary adjustments, especially in the education sector, will help with work-life balance. Finally, building a friendly working environment, listening to feedback and increasing benefits will increase long-term employee engagement.
