@@ -29,11 +29,21 @@ Human resource managers want to create human resource assessments so that busine
 ![Screenshot_2](https://github.com/user-attachments/assets/f74467db-d290-472b-9ee6-4458e51c9c9f)
 
 ## Project Insight:
-- High attrition rate (47%), especially in the 46-59 age group and Entry-level → Need support policies and training to reduce this rate.
-- Low promotion opportunities make employees lose motivation → Need a clearer development roadmap.
-- Poor work & life balance can contribute to high attrition rate → Need to improve benefits and working environment.
-- Education sector has lower income → Need to consider salary adjustment to retain employees.
-- The company needs a better human resource strategy to improve satisfaction and reduce turnover rate.
+- High Attrition Rate: 47% of employees have left the company, indicating significant retention challenges.
+
+- Age & Job Level Impact: The 46–59 age group and entry-level employees experience the highest attrition rates.
+
+- Departmental Trends: Finance and Healthcare departments show the largest volumes of attrition.
+
+- Job Satisfaction: Most employees who left had job satisfaction ratings between 1–3, highlighting low morale.
+
+- Promotion Gaps: Employees with zero promotions make up the majority of those who resigned, pointing to a lack of career advancement.
+
+- Work-Life Balance Issues: Media and Technology sectors have a high number of employees reporting "Poor" or "Fair" work-life balance.
+
+- Income Disparity: Employees in low-income categories are more prone to attrition across all job roles.
+
+- Distance Factor: Employees living farther from the workplace are more likely to leave, suggesting location convenience matters.
 
 ## Final Conclusion:
 To reduce attrition rates, companies need to improve career paths, training and reward policies to retain employees. Entry-level employees need better onboarding support, while older employees should be retrained instead of fired. At the same time, flexible working policies, mental health support and salary adjustments, especially in the education sector, will help with work-life balance. Finally, building a friendly working environment, listening to feedback and increasing benefits will increase long-term employee engagement.
